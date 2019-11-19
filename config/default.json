@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://backend_deploym:QAZwsx123@cluster0-ctqbz.mongodb.net/test?retryWrites=true&w=majority",
+  "clientID": "48860783374-ea1tomi1ivd5m7314l87su0tujlq87q1.apps.googleusercontent.com",
+  "clientSecrete": "W6w7FVeFHsX4Fh2rszmX0GAD",
+  "FbClientID": "235062080762350",
+  "FbClientSecret": "c07b0f02f4803f7c15b5f2d239d8ae25"
+}
